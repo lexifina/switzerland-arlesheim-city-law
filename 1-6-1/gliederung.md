@@ -4,3 +4,4 @@
 ## 4 Verwaltung
 ## 5 Einberufung und Bereitstellen der Sitzungsakten
 ## 6 Beratung
+## 7 Petitionen
