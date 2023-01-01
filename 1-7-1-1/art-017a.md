@@ -1,0 +1,3 @@
+# § 17a Angehörige und Verwandte nach § 37 Personalreglement
+1 Als Angehörige, welche zum Bezug von bezahlter Absenz bei einem Todesfall berechtigen, gelten Verwandte ersten Grades und Personen, welche mit dem bezugsberechtigen Mitarbeitenden in demselben Haushalt gelebt haben.
+2 Als Angehörige und Verwandte, welche zum Bezug von bezahlter Absenz zur Bestattung berechtigen, gelten zusätzlich zu § 17a Abs. 1 Verwandte zweiten Grades und Schwiegereltern. Als Schwiegereltern gelten auch Eltern von Partnern bzw. Partnerinnen mit denen die Mitarbeitenden im gefestigten Konkubinat nach § 7a Gesetz über die Sozial- und die Jugendhilfe leben.

@@ -9,6 +9,7 @@
 ## 5 Ferien (§ 35)
 ## 6 Besondere Rechte (§ 21)
 ### 6.1 Fort- und Weiterbildung
-### 6.2 Lohnentwicklung (§ 27)
+### 6.2 Lohneinreihung und -entwicklung (§§ 24; 27; Anhang 2)
+### 6.3 Sitzungsgelder und Stundenlohnansätze
 ## 7 Spesen, Entschädigungen, Vergütungen (§ 31)
 ## 8 Schutz der Mitarbeitenden
