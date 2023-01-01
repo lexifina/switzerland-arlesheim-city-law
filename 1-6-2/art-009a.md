@@ -7,3 +7,4 @@ d die Aufforderung zur Nachreichung von Bausgesuchen oder Unterlagen,
 e Entscheide über das Aufrechterhalten von Beschwerden,
 f Entscheide über den Rückzug von Einsprachen und
 g Verträge über die Miete und Vermietung von Liegenschaften im Rahmen der Liegenschaftsstrategie. Die Vermietung der Notwohnung richtet sich nach der Richtlinie zur Notwohnung.
+h Reklamebewilligungen nach dem Reglement über Reklameeinrichtungen der Einwohnergemeinde Arlesheim
