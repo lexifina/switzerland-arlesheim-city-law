@@ -1,2 +1,2 @@
-# Richtlinien für die Erhebung von lnfrastrukturbeiträgen gemäss Gesetz über die Abgeltung von Planungsmehrwerten
+# Verordnung über die Erhebung von lnfrastrukturbeiträgen und Mehrwertabgaben
 Vom 09.06.2020
