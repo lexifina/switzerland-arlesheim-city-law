@@ -1,0 +1,2 @@
+# § 5a Finanzierung der AHV/ALV-Beiträge der kapitalisierten Übergangsrente (§ 17)
+1 Die Übergangsrente gilt als massgebender Lohn im Sinne der Verordnung über die Alters- und Hinterlassenenversicherung (AHVV) und wird vor deren Bezug kapitalisiert. Die Beiträge der kapitalisierten Übergangsrente werden jeweils hälftig durch Mitarbeitende und die Gemeinde finanziert. Spätesten im letzten Monat der Erwerbstätigkeit werden die AHV/ALV Beiträge mit der Lohnzahlung verrechnet.
