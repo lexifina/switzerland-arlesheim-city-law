@@ -1,0 +1,3 @@
+# § 10a Exhumierung
+1 Vorzeitige Graböffnung zwecks Exhumierung der Leichen und Umbestattungen sind nur mit Einwilligung der für die administrativen Tätigkeiten im Bestattungs- und Friedhofwesen zuständigen Abteilung der Gemeinde statthaft. Es muss ein begründetes Gesuch eingereicht werden. Soll die vorzeitige Graböffnung vor Ablauf von 20 Jahren bei Erwachsenen bzw. 10 Jahren bei Kindern erfolgen, ist zudem die Bewilligung der zuständigen Abteilung des Kantons erforderlich. Vorbehalten bleiben Exhumierungen zu gerichtlichen Zwecken.
+3 Die Exhumierung ist gebührenpflichtig. Der Gemeinderat legt die Gebühren in einer Verordnung fest.
