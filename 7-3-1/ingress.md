@@ -1,3 +1,3 @@
-# Reglement über die Kontrolle der Öl- und Gasfeuerung
-Vom 18.04.2018
-Gestützt auf§ 47 Absatz 1 des Gemeindegesetzes vom 28. Mai 1970 erlässt die Gemeindeversammlung der Gemeinde Arlesheim folgendes Reglement:
+# Reglement über die Feuerungskontrolle
+Vom 20.06.2024
+Gestützt auf § 47 Absatz 1 Ziffer 2 des Gesetzes über die Organisation und die Verwaltung der Gemeinden vom 28. Mai 1970 (Gemeindegesetz, SGS 180),
