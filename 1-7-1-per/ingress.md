@@ -1,3 +1,7 @@
-# Personalreglement und Reglement über die Entschädigung der Mitglieder von Behörden, Kommissionen und übriger Organe der Gemeinde Arlesheim
-(Personalreglement)
-Vom 21.06.2001
+# Personal- und Entschädigungsreglement
+(PER)
+Vom 25.09.2025
+Die Gemeindeversammlung der Einwohnergemeinde Arlesheim,
+gestützt auf § 46 Absatz 1 und § 47 Absatz 1 Ziffer 2 des Gesetzes über die Organisation und die Verwaltung der Gemeinden vom 28. Mai 1970 (Gemeindegesetz, SGS 180),
+beschliesst:
+1 Allgemeine Bestimmungen
