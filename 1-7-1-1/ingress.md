@@ -1,5 +1,5 @@
-# Verordnung zum Personalreglement
-Vom 19.03.2019
+# Verordnung zum Personal- und Entschädigungsreglement (Vo PER)
+Vom 21.10.2025
 Der Gemeinderat Arlesheim erlässt,
-gestützt auf § 48 des Personalreglements vom 21. Juni 2001,
+gestützt auf das Personal- und Entschädigungsreglement vom 25. September 2025,
 folgende Bestimmungen:
