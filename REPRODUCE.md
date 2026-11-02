@@ -1,6 +1,6 @@
 # How this repository was made (Arlesheim (city))
 
-This file is written by the build on 2026-11-03, the day the source data was retrieved.
+This file is written by the build on 2026-11-02, the day the source data was retrieved.
 
 ## Sources
 
@@ -75,20 +75,21 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `8-8-1-mietzinsbeitragsreglement-mbr` | Reglement über die Ausrichtung von Mietzinsbeiträgen | 2 | 2010-01-01 to 2024-01-01 |
 | `8-8-1-1-mietzinsbeitragsverordnung-mbv` | Verordnung zum Reglement über die Ausrichtung von Mietzinsbeiträgen | 1 | 2024-01-01 to 2024-01-01 |
 | `5-5-1-2` | Statuten der Stützpunkt- und Regionalfeuerwehr Birs | 1 | 2025-01-01 to 2025-01-01 |
+| `4-7-2` | Richtlinien über das Vergabewesen | 1 | 2026-07-01 to 2026-07-01 |
 
-The build made 119 commits:
+The build made 120 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 61 | first version of an act |
+| 62 | first version of an act |
 | 58 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `zukunft`: laws not yet in force on 2026-11-03.
+- 0 commits on the branch `zukunft`: laws not yet in force on 2026-11-02.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 145 laws in the record.
-- 212 tags.
+- 147 laws in the record.
+- 213 tags.
 
 ## Dates
 
@@ -100,8 +101,8 @@ When a law gives no date of its own, the default rule applies: Each version is d
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `a50950bf75c48ccbe94274ac1a79d538b90966a16650dd5a235d89b6de6fb9c3` (1195288 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `900da0d33bfd1ef455267fb4dcef7961fd5acc9c`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
+- Corpus: sha256 `36831114cdbd5043a2a29b83ed31ddd6d7173b68fc2b630965f3489953fb7835` (1205728 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
@@ -117,6 +118,9 @@ No second build of this corpus has been compared yet.
 - Section headings are kept together in one file per act (gliederung.md); the title, date and preamble in ingress.md; the signature block in schluss.md. Amendment markers (*) and the "Stand" date are left out.
 - Annexes published only as separate PDF files are not included.
 - An act's first version is credited to its original enactment only when the change table shows no change in force before it; otherwise it is the oldest version available.
+- The first version is the current consolidated text, dated by the source’s “Aktuelle Version in Kraft seit: 01.07.2026”; the earlier 2017 wording is not asserted.
+- All 18 sections and all 33 body and enumeration spans come from the source XHTML; each body span was independently found in the official PDF for the same version.
+- The source XHTML has no images. The PDF has a repeated municipal logo; it is decorative, not a normative diagram or table.
 
 ## What AI did and did not do
 
@@ -128,3 +132,4 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - A model (Claude) wrote the fetch and parse code and chose which acts to include; it wrote no law text. Every word of law comes from the city's own collection.
+- A model wrote the parsing code and selected the act; it wrote no law text. All law wording was extracted from the municipality’s XHTML.

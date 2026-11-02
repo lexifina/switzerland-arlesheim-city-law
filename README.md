@@ -8,7 +8,7 @@ The text is in German, exactly as the municipality publishes it.
 
 ## What this repository holds
 
-61 acts with 118 versions so far: the Gemeindeordnung (the municipality's charter) first, then the municipality's other enactments in force (ordinances, regulations, tariffs and decisions), in the order of the systematic collection, added in parts of about 50. Agreements, concessions, directives and repealed acts are not included.
+62 acts with 119 versions so far: the Gemeindeordnung (the municipality's charter) first, then the municipality's other enactments in force (ordinances, regulations, tariffs and decisions), in the order of the systematic collection, added in parts of about 50. Agreements, concessions and repealed acts are not included.
 
 | Folder | Act | Versions | History |
 | --- | --- | ---: | --- |
@@ -31,6 +31,7 @@ The text is in German, exactly as the municipality publishes it.
 | `4-2-2-2/` | Verordnung zum Reglement über die Musikschule Arlesheim (SRS 4.2-2.2) | 3 | as enacted, then each consolidated version: 1 August 2022 to 1 August 2026 |
 | `4-7-1/` | Reglement über den Kulturfonds (SRS 4.7-1) | 1 | as enacted, 1 July 2017 |
 | `4-7-1-1/` | Richtlinien für die Vergabe von Mitteln gemäss Reglement über den Kulturfonds (SRS 4.7-1.1) | 1 | one version (the oldest available), 19 December 2017 |
+| `4-7-2/` | Richtlinien über das Vergabewesen (SRS 4.7-2) | 1 | current consolidated text, 1 July 2026; earlier wording not included |
 | `5-1-2-rro/` | Reglement über die öffentliche Ruhe und Ordnung (SRS 5.1-2) | 1 | as enacted, 1 January 2020 |
 | `5-5-1-feuerwehrreglement/` | Reglement über die Feuerwehr (SRS 5.5-1) | 2 | as enacted, then each consolidated version: 1 January 2016 to 1 January 2025 |
 | `6-3-1/` | Steuerreglement (SRS 6.3-1) | 2 | as enacted, then each consolidated version: 17 January 2002 to 1 January 2025 |

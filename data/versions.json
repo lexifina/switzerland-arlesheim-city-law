@@ -1196,6 +1196,20 @@
      "sha256": "bcd153d705b0b691f3e61335f58ca0232c42529b5c88854f253604dd62e59ee2"
     }
    ]
+  },
+  {
+   "slug": "4-7-2",
+   "short": "4.7-2",
+   "title": "Richtlinien über das Vergabewesen",
+   "url": "https://arlesheim.tlex.ch/app/de/texts_of_law/4.7-2",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 20,
+     "source_url": "https://arlesheim.tlex.ch/api/de/texts_of_law/4.7-2",
+     "sha256": "a9963a2a9b8332774af5ce9b524482623b3be55a7d9512e84ed40bae408fdb2d"
+    }
+   ]
   }
  ]
 }
