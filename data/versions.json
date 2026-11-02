@@ -1,0 +1,25 @@
+{
+ "country": "CH-BL-ARLESHEIM",
+ "acts": [
+  {
+   "slug": "1-1-1",
+   "short": "SRS 1.1-1",
+   "title": "Gemeindeordnung",
+   "url": "https://arlesheim.tlex.ch/app/de/texts_of_law/1.1-1",
+   "versions": [
+    {
+     "from": "2021-09-26",
+     "units": 12,
+     "source_url": "https://arlesheim.tlex.ch/api/de/texts_of_law/1.1-1/versions/342",
+     "sha256": "55f7306a1a679fee840f7a3abdcdf82b63080c2d065ab7f18d75e5affb400aaf"
+    },
+    {
+     "from": "2022-05-15",
+     "units": 13,
+     "source_url": "https://arlesheim.tlex.ch/api/de/texts_of_law/1.1-1",
+     "sha256": "f9fc9a72b4a0b6f920c331ffdbaf444f46cad175581cd95d8ad614a25ea60425"
+    }
+   ]
+  }
+ ]
+}

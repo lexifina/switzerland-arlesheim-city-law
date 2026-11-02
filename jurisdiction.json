@@ -1,0 +1,11 @@
+{
+  "path": "ch-bl-arlesheim",
+  "code": "CH-BL-ARLESHEIM",
+  "name": "Arlesheim (city)",
+  "level": "municipality",
+  "parent": "ch-bl",
+  "repo": "https://github.com/lexifina/switzerland-arlesheim-city-law",
+  "build": "built: Gemeindeordnung and municipal enactments (1 acts, 2 versions) from the SRS",
+  "language": "de",
+  "sources": 1
+}
