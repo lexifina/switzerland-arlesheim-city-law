@@ -8,11 +8,42 @@ The text is in German, exactly as the municipality publishes it.
 
 ## What this repository holds
 
-1 act with 2 versions so far: the Gemeindeordnung (the municipality's charter) first, then the municipality's other enactments in force (ordinances, regulations, tariffs and decisions), in the order of the systematic collection, added in parts of about 50. Agreements, concessions, directives and repealed acts are not included.
+32 acts with 66 versions so far: the Gemeindeordnung (the municipality's charter) first, then the municipality's other enactments in force (ordinances, regulations, tariffs and decisions), in the order of the systematic collection, added in parts of about 50. Agreements, concessions, directives and repealed acts are not included.
 
 | Folder | Act | Versions | History |
 | --- | --- | ---: | --- |
 | `1-1-1/` | Gemeindeordnung (SRS 1.1-1) | 2 | oldest version available, then each consolidated version: 26 September 2021 to 15 May 2022 |
+| `1-1-2/` | Verwaltungs- und Organisationsreglement (SRS 1.1-2) | 4 | as enacted, then each consolidated version: 1 January 2017 to 1 October 2025 |
+| `1-1-3/` | Geschäftsordnung der Rechnungsprüfungskommission (RPK) (SRS 1.1-3) | 1 | as enacted, 1 December 2019 |
+| `1-4-1/` | Verordnung betreffend den Aushang von Wahl-, Abstimmungs- und Parteiplakaten auf öffentlichem Grund sowie für den gemeinsamen Versand von Wahlempfehlungen (SRS 1.4-1) | 1 | as enacted, 4 May 2021 |
+| `1-4-2/` | Geschäftsordnung der Wahlbüros (SRS 1.4-2) | 2 | as enacted, then each consolidated version: 1 July 2024 to 31 March 2026 |
+| `1-6-1/` | Geschäftsordnung des Gemeinderates (SRS 1.6-1) | 2 | as enacted, then each consolidated version: 1 January 2020 to 1 May 2022 |
+| `1-6-2/` | Kompetenzordnung (SRS 1.6-2) | 3 | as enacted, then each consolidated version: 1 January 2020 to 1 January 2023 |
+| `1-6-3/` | Geschäftsordnung der Kommission für Altersfragen (SRS 1.6-3) | 1 | as enacted, 1 January 2026 |
+| `1-6-4/` | Geschäftsordnung der Finanzplankommission (FPK) (SRS 1.6-4) | 1 | as enacted, 1 August 2026 |
+| `1-7-1-per/` | Personal- und Entschädigungsreglement (SRS 1.7-1) | 2 | oldest version available, then each consolidated version: 1 January 2015 to 1 January 2026 |
+| `1-7-1-1/` | Verordnung zum Personal- und Entschädigungsreglement (Vo PER) (SRS 1.7-1.1) | 9 | oldest version available, then each consolidated version: 1 January 2022 to 18 August 2026 |
+| `4-1-1/` | Reglement über die familienergänzende Kinderbetreuung (SRS 4.1-1) | 2 | oldest version available, then each consolidated version: 1 August 2019 to 1 January 2025 |
+| `4-1-1-1/` | Verordnung zum Reglement über die familienergänzende Kinderbetreuung (SRS 4.1-1.1) | 3 | oldest version available, then each consolidated version: 18 August 2020 to 1 January 2025 |
+| `4-2-1/` | Reglement über die Ausrichtung von Beiträgen an die Kosten des Besuchs von Privatschulen (SRS 4.2-1) | 1 | as enacted, 1 September 2003 |
+| `4-2-2/` | Reglement über die Musikschule Arlesheim (SRS 4.2-2) | 2 | as enacted, then each consolidated version: 23 January 2005 to 1 August 2022 |
+| `4-2-2-1/` | Geschäftsordnung des Musikschulrates (SRS 4.2-2.1) | 3 | as enacted, then each consolidated version: 17 January 2011 to 22 November 2024 |
+| `4-2-2-2/` | Verordnung zum Reglement über die Musikschule Arlesheim (SRS 4.2-2.2) | 3 | as enacted, then each consolidated version: 1 August 2022 to 1 August 2026 |
+| `4-7-1/` | Reglement über den Kulturfonds (SRS 4.7-1) | 1 | as enacted, 1 July 2017 |
+| `4-7-1-1/` | Richtlinien für die Vergabe von Mitteln gemäss Reglement über den Kulturfonds (SRS 4.7-1.1) | 1 | one version (the oldest available), 19 December 2017 |
+| `5-1-2-rro/` | Reglement über die öffentliche Ruhe und Ordnung (SRS 5.1-2) | 1 | as enacted, 1 January 2020 |
+| `5-5-1-feuerwehrreglement/` | Reglement über die Feuerwehr (SRS 5.5-1) | 2 | as enacted, then each consolidated version: 1 January 2016 to 1 January 2025 |
+| `6-3-1/` | Steuerreglement (SRS 6.3-1) | 2 | as enacted, then each consolidated version: 17 January 2002 to 1 January 2025 |
+| `6-4-1/` | Verordnung über die Ausleihe und Vermietung von gemeindeeigenem Mobiliar und Gerätschaften (SRS 6.4-1) | 1 | as enacted, 1 January 2009 |
+| `6-4-2/` | Verordnung über die Gebühren der Einwohnerdienste (SRS 6.4-2) | 3 | oldest version available, then each consolidated version: 1 January 2022 to 1 September 2025 |
+| `6-6-1/` | Verordnung über die Benutzung und Gebühren für die Allmend, gemeindeeigene Räumlichkeiten, Anlagen und Einrichtungen sowie über die Bewilligung von Gelegenheitswirtschaften und Freinachtbewilligungen (SRS 6.6-1) | 4 | oldest version available, then each consolidated version: 1 January 2021 to 12 August 2025 |
+| `7-1-1/` | Zonenreglement Siedlung (SRS 7.1-1) | 1 | as enacted, 4 July 2017 |
+| `7-1-2/` | Reglement über die Mehrwertabgaben (SRS 7.1-2) | 1 | as enacted, 1 October 2021 |
+| `7-1-2-1/` | Verordnung über die Erhebung von lnfrastrukturbeiträgen und Mehrwertabgaben (SRS 7.1-2.1) | 3 | oldest version available, then each consolidated version: 30 November 2021 to 1 March 2023 |
+| `7-1-3/` | Reglement über den Fonds für Infrastrukturbeiträge und Mehrwertabgaben (SRS 7.1-3) | 1 | as enacted, 1 October 2021 |
+| `7-1-4/` | Zonenreglement Landschaft (SRS 7.1-4) | 1 | one version (the oldest available), 15 August 1996 |
+| `7-1-6-parkplatzersatzabgabereglement/` | Reglement über die Ersatzabgabe für Parkplätze (SRS 7.1-6) | 1 | as enacted, 13 August 2024 |
+| `7-1-6-1-parkplatzersatzabgabefonds/` | Verordnung betreffend den Fonds für die Parkplatzersatzabgabe (SRS 7.1-6.1) | 1 | as enacted, 24 September 2024 |
 
 ## Source
 
