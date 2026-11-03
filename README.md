@@ -8,7 +8,7 @@ The text is in German, exactly as the municipality publishes it.
 
 ## What this repository holds
 
-32 acts with 66 versions so far: the Gemeindeordnung (the municipality's charter) first, then the municipality's other enactments in force (ordinances, regulations, tariffs and decisions), in the order of the systematic collection, added in parts of about 50. Agreements, concessions, directives and repealed acts are not included.
+61 acts with 118 versions so far: the Gemeindeordnung (the municipality's charter) first, then the municipality's other enactments in force (ordinances, regulations, tariffs and decisions), in the order of the systematic collection, added in parts of about 50. Agreements, concessions, directives and repealed acts are not included.
 
 | Folder | Act | Versions | History |
 | --- | --- | ---: | --- |
@@ -44,6 +44,35 @@ The text is in German, exactly as the municipality publishes it.
 | `7-1-4/` | Zonenreglement Landschaft (SRS 7.1-4) | 1 | one version (the oldest available), 15 August 1996 |
 | `7-1-6-parkplatzersatzabgabereglement/` | Reglement über die Ersatzabgabe für Parkplätze (SRS 7.1-6) | 1 | as enacted, 13 August 2024 |
 | `7-1-6-1-parkplatzersatzabgabefonds/` | Verordnung betreffend den Fonds für die Parkplatzersatzabgabe (SRS 7.1-6.1) | 1 | as enacted, 24 September 2024 |
+| `7-3-1/` | Reglement über die Feuerungskontrolle (SRS 7.3-1) | 2 | as enacted, then each consolidated version: 1 July 2018 to 1 September 2024 |
+| `7-3-1-1/` | Verordnung zum Reglement über die Feuerungskontrolle (SRS 7.3-1.1) | 5 | as enacted, then each consolidated version: 1 July 2018 to 1 September 2024 |
+| `7-3-2/` | Anschlussbeiträge, Bemessung von energetischen Mehrinvestitionen, Festlegung abzugsberechtigter Investitionen (SRS 7.3-2) | 1 | as enacted, 8 May 2012 |
+| `7-4-1/` | Wasserreglement (SRS 7.4-1) | 2 | oldest version available, then each consolidated version: 1 January 2016 to 1 January 2023 |
+| `7-4-1-1-wasserverordnung/` | Verordnung zum Wasserreglement (SRS 7.4-1.1) | 4 | as enacted, then each consolidated version: 2 July 1991 to 1 October 2026 |
+| `7-4-2-abfallreglement/` | Reglement über die Vermeidung und Entsorgung von Abfällen aus privaten Haushaltungen (SRS 7.4-2) | 1 | as enacted, 1 January 1993 |
+| `7-4-3/` | Abwasserreglement (SRS 7.4-3) | 2 | oldest version available, then each consolidated version: 1 January 2012 to 1 January 2023 |
+| `7-4-3-1-abwasserverordnung/` | Verordnung zum Abwasserreglement (SRS 7.4-3.1) | 2 | as enacted, then each consolidated version: 1 January 2023 to 1 October 2026 |
+| `7-6-1/` | Strassenreglement (SRS 7.6-1) | 1 | as enacted, 13 December 2011 |
+| `7-6-2/` | Reglement über Reklameeinrichtungen der Einwohnergemeinde Arlesheim (SRS 7.6-2) | 1 | as enacted, 20 March 1998 |
+| `7-6-2-1/` | Gebührenordnung zum Reklamereglement (SRS 7.6-2.1) | 1 | as enacted, 10 October 2006 |
+| `7-6-2-2/` | Verordnung zum Reklamereglement betreffend Aushang von Plakaten (SRS 7.6-2.2) | 1 | as enacted, 1 July 2025 |
+| `7-7-1/` | Verordnung über das Parkieren auf Gemeindeareal (SRS 7.7-1) | 5 | oldest version available, then each consolidated version: 18 December 2018 to 11 August 2026 |
+| `7-8-1-rubbb/` | Reglement über Beiträge an geschützte Bauten und Bäume (SRS 7.8-1) | 1 | as enacted, 1 June 2024 |
+| `7-8-1-1-vo-rubbb/` | Verordnung zum Reglement über Beiträge an geschützte Bauten und Bäume (SRS 7.8-1.1) | 1 | as enacted, 1 June 2024 |
+| `8-1-1/` | Reglement über die Kinder- und Jugendzahnpflege (SRS 8.1-1) | 1 | as enacted, 21 November 2000 |
+| `8-1-2/` | Reglement über die Beiträge an die Pflege zu Hause und an den Besuch von Tages- und Nachtstätten (SRS 8.1-2) | 1 | as enacted, 1 July 2014 |
+| `8-1-3/` | Reglement über Beiträge an betreutes Wohnen im Alter (SRS 8.1-3) | 1 | as enacted, 1 July 2024 |
+| `8-1-3-1/` | Verordnung zum Reglement über Beiträge an betreutes Wohnen im Alter (SRS 8.1-3.1) | 1 | as enacted, 1 July 2024 |
+| `8-2-1/` | Bestattungs- und Friedhofreglement (SRS 8.2-1) | 2 | as enacted, then each consolidated version: 1 January 2011 to 1 January 2024 |
+| `8-2-1-1/` | Verordnung zum Bestattungs- und Friedhofreglement (SRS 8.2-1.1) | 4 | oldest version available, then each consolidated version: 1 January 2021 to 17 December 2024 |
+| `8-3-1-hundereglement/` | Reglement über die Hundehaltung (SRS 8.3-1) | 1 | one version (the oldest available), 1 January 2011 |
+| `8-3-1-1/` | Gebührenverordnung zum Hundereglement (SRS 8.3-1.1) | 1 | as enacted, 1 January 2011 |
+| `8-7-1/` | Reglement über den Sozialfonds (SRS 8.7-1) | 1 | as enacted, 1 January 2013 |
+| `8-7-1-1/` | Richtlinien für die Vergabe von Mitteln gemäss Reglement über den Sozialfonds (SRS 8.7-1.1) | 2 | oldest version available, then each consolidated version: 26 April 2016 to 1 September 2026 |
+| `8-7-2/` | Reglement über Zusatzbeiträge nach dem Ergänzungsleistungsgesetz (SRS 8.7-2) | 3 | as enacted, then each consolidated version: 1 July 2018 to 1 January 2025 |
+| `8-8-1-mietzinsbeitragsreglement-mbr/` | Reglement über die Ausrichtung von Mietzinsbeiträgen (SRS 8.8-1) | 2 | as enacted, then each consolidated version: 1 January 2010 to 1 January 2024 |
+| `8-8-1-1-mietzinsbeitragsverordnung-mbv/` | Verordnung zum Reglement über die Ausrichtung von Mietzinsbeiträgen (SRS 8.8-1.1) | 1 | as enacted, 1 January 2024 |
+| `5-5-1-2/` | Statuten der Stützpunkt- und Regionalfeuerwehr Birs (SRS 5.5-1.2) | 1 | one version (the oldest available), 1 January 2025 |
 
 ## Source
 
@@ -73,3 +102,7 @@ The author of a commit is the amending act, named by its entry in the chronologi
 ## Limits
 
 This is not an official publication. The binding text is the one the municipality publishes as binding. The history starts with the oldest consolidated version the collection holds for each act, which for many acts is later than the act's enactment. Only the acts listed above are included.
+
+## Acts published only as PDF
+
+Some acts of this collection are published only as a PDF. Those with a text layer and articles (agreements, statutes of associations, regulations) are added in parts named `50-pdf-erlasse-NN`: one version each, the current text, dated by the in-force day the collection gives for it and credited to its Beschluss. The text is read from the PDF (PyMuPDF) and checked against a second, independent reader (poppler pdftotext): the letters and digits are equal and every line is found in order. Land-use plans, maps and acts without articles are not included.

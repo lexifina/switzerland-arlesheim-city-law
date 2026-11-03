@@ -1,6 +1,6 @@
 # How this repository was made (Arlesheim (city))
 
-This file is written by the build on 2026-11-02, the day the source data was retrieved.
+This file is written by the build on 2026-11-03, the day the source data was retrieved.
 
 ## Sources
 
@@ -46,20 +46,49 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `7-1-4` | Zonenreglement Landschaft | 1 | 1996-08-15 to 1996-08-15 |
 | `7-1-6-parkplatzersatzabgabereglement` | Reglement über die Ersatzabgabe für Parkplätze | 1 | 2024-08-13 to 2024-08-13 |
 | `7-1-6-1-parkplatzersatzabgabefonds` | Verordnung betreffend den Fonds für die Parkplatzersatzabgabe | 1 | 2024-09-24 to 2024-09-24 |
+| `7-3-1` | Reglement über die Feuerungskontrolle | 2 | 2018-07-01 to 2024-09-01 |
+| `7-3-1-1` | Verordnung zum Reglement über die Feuerungskontrolle | 5 | 2018-07-01 to 2024-09-01 |
+| `7-3-2` | Anschlussbeiträge, Bemessung von energetischen Mehrinvestitionen, Festlegung abzugsberechtigter Investitionen | 1 | 2012-05-08 to 2012-05-08 |
+| `7-4-1` | Wasserreglement | 2 | 2016-01-01 to 2023-01-01 |
+| `7-4-1-1-wasserverordnung` | Verordnung zum Wasserreglement | 4 | 1991-07-02 to 2026-10-01 |
+| `7-4-2-abfallreglement` | Reglement über die Vermeidung und Entsorgung von Abfällen aus privaten Haushaltungen | 1 | 1993-01-01 to 1993-01-01 |
+| `7-4-3` | Abwasserreglement | 2 | 2012-01-01 to 2023-01-01 |
+| `7-4-3-1-abwasserverordnung` | Verordnung zum Abwasserreglement | 2 | 2023-01-01 to 2026-10-01 |
+| `7-6-1` | Strassenreglement | 1 | 2011-12-13 to 2011-12-13 |
+| `7-6-2` | Reglement über Reklameeinrichtungen der Einwohnergemeinde Arlesheim | 1 | 1998-03-20 to 1998-03-20 |
+| `7-6-2-1` | Gebührenordnung zum Reklamereglement | 1 | 2006-10-10 to 2006-10-10 |
+| `7-6-2-2` | Verordnung zum Reklamereglement betreffend Aushang von Plakaten | 1 | 2025-07-01 to 2025-07-01 |
+| `7-7-1` | Verordnung über das Parkieren auf Gemeindeareal | 5 | 2018-12-18 to 2026-08-11 |
+| `7-8-1-rubbb` | Reglement über Beiträge an geschützte Bauten und Bäume | 1 | 2024-06-01 to 2024-06-01 |
+| `7-8-1-1-vo-rubbb` | Verordnung zum Reglement über Beiträge an geschützte Bauten und Bäume | 1 | 2024-06-01 to 2024-06-01 |
+| `8-1-1` | Reglement über die Kinder- und Jugendzahnpflege | 1 | 2000-11-21 to 2000-11-21 |
+| `8-1-2` | Reglement über die Beiträge an die Pflege zu Hause und an den Besuch von Tages- und Nachtstätten | 1 | 2014-07-01 to 2014-07-01 |
+| `8-1-3` | Reglement über Beiträge an betreutes Wohnen im Alter | 1 | 2024-07-01 to 2024-07-01 |
+| `8-1-3-1` | Verordnung zum Reglement über Beiträge an betreutes Wohnen im Alter | 1 | 2024-07-01 to 2024-07-01 |
+| `8-2-1` | Bestattungs- und Friedhofreglement | 2 | 2011-01-01 to 2024-01-01 |
+| `8-2-1-1` | Verordnung zum Bestattungs- und Friedhofreglement | 4 | 2021-01-01 to 2024-12-17 |
+| `8-3-1-hundereglement` | Reglement über die Hundehaltung | 1 | 2011-01-01 to 2011-01-01 |
+| `8-3-1-1` | Gebührenverordnung zum Hundereglement | 1 | 2011-01-01 to 2011-01-01 |
+| `8-7-1` | Reglement über den Sozialfonds | 1 | 2013-01-01 to 2013-01-01 |
+| `8-7-1-1` | Richtlinien für die Vergabe von Mitteln gemäss Reglement über den Sozialfonds | 2 | 2016-04-26 to 2026-09-01 |
+| `8-7-2` | Reglement über Zusatzbeiträge nach dem Ergänzungsleistungsgesetz | 3 | 2018-07-01 to 2025-01-01 |
+| `8-8-1-mietzinsbeitragsreglement-mbr` | Reglement über die Ausrichtung von Mietzinsbeiträgen | 2 | 2010-01-01 to 2024-01-01 |
+| `8-8-1-1-mietzinsbeitragsverordnung-mbv` | Verordnung zum Reglement über die Ausrichtung von Mietzinsbeiträgen | 1 | 2024-01-01 to 2024-01-01 |
+| `5-5-1-2` | Statuten der Stützpunkt- und Regionalfeuerwehr Birs | 1 | 2025-01-01 to 2025-01-01 |
 
-The build made 66 commits:
+The build made 119 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 32 | first version of an act |
-| 34 | one law on its in-force day |
+| 61 | first version of an act |
+| 58 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `zukunft`: laws not yet in force on 2026-11-02.
+- 0 commits on the branch `zukunft`: laws not yet in force on 2026-11-03.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 85 laws in the record.
-- 117 tags.
+- 145 laws in the record.
+- 212 tags.
 
 ## Dates
 
@@ -71,13 +100,13 @@ When a law gives no date of its own, the default rule applies: Each version is d
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `f45efcacc3dfb01568a43dcc6afee60c4ccb097a896fc9a494b2ce5a17704d1f` (749535 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
-- Python 3.12.10; git version 2.46.0.windows.1.
+- Corpus: sha256 `a50950bf75c48ccbe94274ac1a79d538b90966a16650dd5a235d89b6de6fb9c3` (1195288 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `900da0d33bfd1ef455267fb4dcef7961fd5acc9c`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
+- Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-66 versions of 32 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 
