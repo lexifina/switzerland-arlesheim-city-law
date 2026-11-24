@@ -1,0 +1,27 @@
+{
+ "sources": [
+  {
+   "id": "lexwork-arlesheim-city",
+   "kind": "legislation",
+   "name": {
+    "en": "Arlesheim: systematic collection (arlesheim.tlex.ch)",
+    "de": "Arlesheim: Systematische Sammlung (arlesheim.tlex.ch)"
+   },
+   "url": "https://arlesheim.tlex.ch/",
+   "reads": {
+    "en": "the collection's index of acts in force each check, the act document (every consolidated version, its change table) of new acts and of a seventh of the held acts, version documents once",
+    "de": "jeden Tag das Verzeichnis der geltenden Erlasse, das Dokument (alle konsolidierten Fassungen, Änderungstabelle) neuer Erlasse und eines Siebtels der gehaltenen Erlasse, Fassungen einmal"
+   },
+   "folders": [
+    "<act>/"
+   ],
+   "schedule": "daily",
+   "state": "watched",
+   "corpora": [
+    "switzerland/basel-landschaft/arlesheim/acts"
+   ],
+   "interval": 1.0,
+   "repo": "switzerland-arlesheim-city-law"
+  }
+ ]
+}
