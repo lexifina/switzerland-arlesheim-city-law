@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T11:53:16Z",
+ "generated": "2026-11-25T08:25:53Z",
  "latest": {
   "lexwork-arlesheim-city|switzerland/basel-landschaft/arlesheim/acts": {
    "attempt": 1,
@@ -19,45 +19,40 @@
     "held": 62,
     "not_at_source": 9,
     "out_of_scope": 61,
-    "pending": 9,
+    "pending": 0,
     "repo": 62,
-    "source_in_scope": 71
+    "source_in_scope": 62
    },
-   "check_id": "ch-lexwork-arlesheim-city-20261124T115203Z",
+   "check_id": "ch-lexwork-arlesheim-city-20261125T055935Z",
    "commits": null,
    "corpus": "switzerland/basel-landschaft/arlesheim/acts",
    "error": null,
-   "finished": "2026-11-24T11:53:16Z",
-   "flags": [],
-   "gap": 9,
-   "note": "arlesheim.tlex.ch: index of 132 acts (132 in force); held 62; 9 in force and in scope not held yet, 61 out of scope (land-use plans, concessions, directives, forms: as the builder), 0 published only as PDF; 9 held acts compared with the collection this check (every one within 7 days); 9 candidate acts read",
-   "outcome": "changed",
+   "finished": "2026-11-25T06:00:20Z",
+   "flags": [
+    {
+     "detail": "1 of 26 texts differ from the source",
+     "flag": "verify-differ"
+    }
+   ],
+   "gap": 10,
+   "note": "arlesheim.tlex.ch: index of 132 acts (132 in force); held 62; 0 in force and in scope not held yet, 61 out of scope (land-use plans, concessions, directives, forms: as the builder), 9 published only as PDF; 9 held acts compared with the collection this check (every one within 7 days); 0 candidate acts read",
+   "outcome": "no-change",
    "published": {
     "added": [],
     "changed": [],
     "removed": []
    },
-   "requests": 38,
-   "runner": "lawwatch switzerland (5f59fe7c67)",
+   "requests": 41,
+   "runner": "lawwatch switzerland (08a05acd17)",
    "schema": "lexifina-check/1",
    "seen": {
-    "added": [
-     "6.4-1.1",
-     "7.2.1-3.1",
-     "7.2.3-1",
-     "7.2.3-1.1",
-     "7.2.3-2",
-     "7.2.3-2.1",
-     "7.2.4-1",
-     "7.2.4-2",
-     "8.1-4"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
    "snapshot": "132 entries, 132 in force (arlesheim.tlex.ch)",
    "source": "lexwork-arlesheim-city",
-   "started": "2026-11-24T11:52:03Z",
+   "started": "2026-11-25T05:59:35Z",
    "unexplained": 0,
    "update": {
     "left_for_next_check": 0,
@@ -65,19 +60,23 @@
     "new": 0,
     "nothing_new": 0,
     "parts": [],
-    "pdf_only": 9,
+    "pdf_only": 0,
     "re_read": 0,
     "unreadable": 0
    },
    "verify": {
     "cycle_days": 7,
-    "examples": [],
+    "examples": [
+     "1.7-1.1 (1-7-1-1): 2022-01-01"
+    ],
     "held": 62,
-    "method": "each act compared this check (9 of 62: a seventh of the held acts, every one within 7 days, and the acts this check wrote) read again from arlesheim.tlex.ch (the act document and each version by id), parsed by the builder (ch_cantons.parse_act), and compared version by version, letters and digits of every unit, with the corpus this repository is built from; the corpus's newest version rendered by the builder (gitlaw_common) and compared with the files at the tip of main. A difference is re-read and corrected by the next check's update (Kind: correction)",
-    "ok": true,
+    "method": "each act compared this check (9 of 62: a seventh of the held acts, every one within 7 days, and the acts this check wrote) read again from arlesheim.tlex.ch (the act document and each version by id); every version held here against the collection's XHTML of the same day, letters and digits (the builder's letters check, ch_cantons.letters_check, so how a parse splits the text into files does not count); and the corpus's newest version rendered by the builder (gitlaw_common) against the files at the tip of main. A difference is corrected by the next check's update when today's parse gives back the act's other held versions exactly; otherwise it is listed for a rebuild decision",
+    "not_compared": {},
+    "not_compared_why": null,
+    "ok": false,
     "swept": 9,
-    "versions_checked": 17,
-    "versions_differ": 0
+    "versions_checked": 26,
+    "versions_differ": 1
    }
   }
  },
