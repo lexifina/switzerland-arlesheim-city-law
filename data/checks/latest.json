@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T08:25:53Z",
+ "generated": "2026-11-26T07:17:09Z",
  "latest": {
   "lexwork-arlesheim-city|switzerland/basel-landschaft/arlesheim/acts": {
    "attempt": 1,
@@ -13,7 +13,7 @@
     "unreadable": 0
    },
    "census": {
-    "checked": 9,
+    "checked": 10,
     "current": 62,
     "gone": 0,
     "held": 62,
@@ -23,26 +23,26 @@
     "repo": 62,
     "source_in_scope": 62
    },
-   "check_id": "ch-lexwork-arlesheim-city-20261125T055935Z",
+   "check_id": "ch-lexwork-arlesheim-city-20261126T054737Z",
    "commits": null,
    "corpus": "switzerland/basel-landschaft/arlesheim/acts",
    "error": null,
-   "finished": "2026-11-25T06:00:20Z",
+   "finished": "2026-11-26T05:48:10Z",
    "flags": [
     {
-     "detail": "1 of 26 texts differ from the source",
+     "detail": "2 of 23 texts differ from the source",
      "flag": "verify-differ"
     }
    ],
-   "gap": 10,
-   "note": "arlesheim.tlex.ch: index of 132 acts (132 in force); held 62; 0 in force and in scope not held yet, 61 out of scope (land-use plans, concessions, directives, forms: as the builder), 9 published only as PDF; 9 held acts compared with the collection this check (every one within 7 days); 0 candidate acts read",
+   "gap": 9,
+   "note": "arlesheim.tlex.ch: index of 132 acts (132 in force); held 62; 0 in force and in scope not held yet, 61 out of scope (land-use plans, concessions, directives, forms: as the builder), 9 published only as PDF; 10 held acts compared with the collection this check (every one within 7 days); 0 candidate acts read",
    "outcome": "no-change",
    "published": {
     "added": [],
     "changed": [],
     "removed": []
    },
-   "requests": 41,
+   "requests": 28,
    "runner": "lawwatch switzerland (08a05acd17)",
    "schema": "lexifina-check/1",
    "seen": {
@@ -52,13 +52,13 @@
    },
    "snapshot": "132 entries, 132 in force (arlesheim.tlex.ch)",
    "source": "lexwork-arlesheim-city",
-   "started": "2026-11-25T05:59:35Z",
+   "started": "2026-11-26T05:47:37Z",
    "unexplained": 0,
    "update": {
     "left_for_next_check": 0,
     "letters_check_dropped": {},
     "new": 0,
-    "nothing_new": 0,
+    "nothing_new": 1,
     "parts": [],
     "pdf_only": 0,
     "re_read": 0,
@@ -67,16 +67,20 @@
    "verify": {
     "cycle_days": 7,
     "examples": [
+     "6.6-1 (6-6-1): 2022-07-01",
      "1.7-1.1 (1-7-1-1): 2022-01-01"
     ],
     "held": 62,
-    "method": "each act compared this check (9 of 62: a seventh of the held acts, every one within 7 days, and the acts this check wrote) read again from arlesheim.tlex.ch (the act document and each version by id); every version held here against the collection's XHTML of the same day, letters and digits (the builder's letters check, ch_cantons.letters_check, so how a parse splits the text into files does not count); and the corpus's newest version rendered by the builder (gitlaw_common) against the files at the tip of main. A difference is corrected by the next check's update when today's parse gives back the act's other held versions exactly; otherwise it is listed for a rebuild decision",
-    "not_compared": {},
-    "not_compared_why": null,
+    "method": "each act compared this check (10 of 62: a seventh of the held acts, every one within 7 days, and the acts this check wrote) read again from arlesheim.tlex.ch (the act document and each version by id); every version held here against the collection's XHTML of the same day, letters and digits (the builder's letters check, ch_cantons.letters_check, so how a parse splits the text into files does not count); and the corpus's newest version rendered by the builder (gitlaw_common) against the files at the tip of main. A difference is corrected by the next check's update when today's parse gives back the act's other held versions exactly; otherwise it is listed for a rebuild decision",
+    "not_compared": {
+     "50-pdf-erlasse-01.json": 1,
+     "60-richtlinien-vergabewesen.json": 1
+    },
+    "not_compared_why": "acts held from parts built by another route (not the collection's XHTML through the builder's parse), e.g. a verification pass or PDF annexes",
     "ok": false,
-    "swept": 9,
-    "versions_checked": 26,
-    "versions_differ": 1
+    "swept": 10,
+    "versions_checked": 23,
+    "versions_differ": 2
    }
   }
  },
