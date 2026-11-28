@@ -8,9 +8,9 @@ Wie global-law misst, wie aktuell jedes Land ist: [global-law FRESHNESS.md](http
 
 ### Arlesheim: Systematische Sammlung (arlesheim.tlex.ch) · `switzerland/basel-landschaft/arlesheim/acts`
 
-- Die amtliche Quelle zuletzt gelesen und jede Vorschrift hier mit ihr abgeglichen: **2026-11-27 05:50 UTC**.
+- Die amtliche Quelle zuletzt gelesen und jede Vorschrift hier mit ihr abgeglichen: **2026-11-28 05:47 UTC**.
 - Vorschriften hier: 62; aktuell gegenüber der Quelle: 62; an der Quelle geändert seit der Fassung hier: 0; nicht mehr an der Quelle: 0.
-- In diesem Lesen mit der Quelle verglichen: 11 der 62 Vorschriften hier; die übrigen wurden in diesem Lesen nicht verglichen (siehe die Anmerkung der Prüfung).
+- In diesem Lesen mit der Quelle verglichen: 12 der 62 Vorschriften hier; die übrigen wurden in diesem Lesen nicht verglichen (siehe die Anmerkung der Prüfung).
 - Nicht veröffentlicht: 9 (hier vorhanden, an der Quelle nicht mehr: 9); ohne Grund: 0.
 
 Im Einzelnen: [monitoring/](monitoring/README.md). Für Programme: [data/checks/latest.json](data/checks/latest.json).

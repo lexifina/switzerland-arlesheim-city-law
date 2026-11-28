@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T07:11:38Z",
+ "generated": "2026-11-28T08:34:01Z",
  "latest": {
   "lexwork-arlesheim-city|switzerland/basel-landschaft/arlesheim/acts": {
    "attempt": 1,
@@ -13,7 +13,7 @@
     "unreadable": 0
    },
    "census": {
-    "checked": 11,
+    "checked": 12,
     "current": 62,
     "gone": 0,
     "held": 62,
@@ -23,26 +23,26 @@
     "repo": 62,
     "source_in_scope": 62
    },
-   "check_id": "ch-lexwork-arlesheim-city-20261127T054939Z",
+   "check_id": "ch-lexwork-arlesheim-city-20261128T054717Z",
    "commits": null,
    "corpus": "switzerland/basel-landschaft/arlesheim/acts",
    "error": null,
-   "finished": "2026-11-27T05:50:12Z",
+   "finished": "2026-11-28T05:47:47Z",
    "flags": [
     {
-     "detail": "3 of 29 texts differ from the source",
+     "detail": "3 of 31 texts differ from the source",
      "flag": "verify-differ"
     }
    ],
    "gap": 9,
-   "note": "arlesheim.tlex.ch: index of 132 acts (132 in force); held 62; 0 in force and in scope not held yet, 61 out of scope (land-use plans, concessions, directives, forms: as the builder), 9 published only as PDF; 11 held acts compared with the collection this check (every one within 7 days); 0 candidate acts read",
+   "note": "arlesheim.tlex.ch: index of 132 acts (132 in force); held 62; 0 in force and in scope not held yet, 61 out of scope (land-use plans, concessions, directives, forms: as the builder), 9 published only as PDF; 12 held acts compared with the collection this check (every one within 7 days); 0 candidate acts read",
    "outcome": "no-change",
    "published": {
     "added": [],
     "changed": [],
     "removed": []
    },
-   "requests": 29,
+   "requests": 27,
    "runner": "lawwatch switzerland (08a05acd17)",
    "schema": "lexifina-check/1",
    "seen": {
@@ -52,13 +52,13 @@
    },
    "snapshot": "132 entries, 132 in force (arlesheim.tlex.ch)",
    "source": "lexwork-arlesheim-city",
-   "started": "2026-11-27T05:49:39Z",
+   "started": "2026-11-28T05:47:17Z",
    "unexplained": 0,
    "update": {
     "left_for_next_check": 0,
     "letters_check_dropped": {},
     "new": 0,
-    "nothing_new": 2,
+    "nothing_new": 3,
     "parts": [],
     "pdf_only": 0,
     "re_read": 0,
@@ -72,12 +72,12 @@
      "1.7-1.1 (1-7-1-1): 2022-01-01"
     ],
     "held": 62,
-    "method": "each act compared this check (11 of 62: a seventh of the held acts, every one within 7 days, and the acts this check wrote) read again from arlesheim.tlex.ch (the act document and each version by id); every version held here against the collection's XHTML of the same day, letters and digits (the builder's letters check, ch_cantons.letters_check, so how a parse splits the text into files does not count); and the corpus's newest version rendered by the builder (gitlaw_common) against the files at the tip of main. A difference is corrected by the next check's update when today's parse gives back the act's other held versions exactly; otherwise it is listed for a rebuild decision",
+    "method": "each act compared this check (12 of 62: a seventh of the held acts, every one within 7 days, and the acts this check wrote) read again from arlesheim.tlex.ch (the act document and each version by id); every version held here against the collection's XHTML of the same day, letters and digits (the builder's letters check, ch_cantons.letters_check, so how a parse splits the text into files does not count); and the corpus's newest version rendered by the builder (gitlaw_common) against the files at the tip of main. A difference is corrected by the next check's update when today's parse gives back the act's other held versions exactly; otherwise it is listed for a rebuild decision",
     "not_compared": {},
     "not_compared_why": null,
     "ok": false,
-    "swept": 11,
-    "versions_checked": 29,
+    "swept": 12,
+    "versions_checked": 31,
     "versions_differ": 3
    }
   }
